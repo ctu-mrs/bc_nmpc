@@ -1,7 +1,10 @@
+## Coming soon
+The source-code will be released after the final processing of the journal review process. 
+
 # BC-NMPC: Battery-Constrained NMPC with Propulsion Prediction and Replanning for High-Speed Flight
 Public repository for the open-source code from our publication 'BC-NMPC: Battery-Constrained NMPC with Propulsion Prediction and Replanning for High-Speed Flight'
 
-## Coming soon
+
 
 ## Paper and Citation 
 
